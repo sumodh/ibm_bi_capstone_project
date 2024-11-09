@@ -9,11 +9,11 @@
 
 
 
-<img width="1030" alt="Screenshot 2024-10-29 at 16 18 47" src="https://github.com/user-attachments/assets/f7ad16d8-7cc4-476b-817c-4b75986481e1">
+<img width="647" alt="Screenshot 2024-10-29 at 16 18 47" src="https://github.com/user-attachments/assets/f7ad16d8-7cc4-476b-817c-4b75986481e1">
 
 
 
 
 
 
-![Frame1](https://github.com/user-attachments/assets/92c6e6bd-223b-4c3f-a299-8931da417ba4)
+
