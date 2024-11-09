@@ -18,5 +18,7 @@ A comprehensive analysis of the sales performance of the retail chain across dif
 
 
 
+<img width="870" alt="sc_cropped1" src="https://github.com/user-attachments/assets/771eef0b-1d88-478b-8e96-83033e2436f5">
 
 
+![Uploading sales_02.png…]()
