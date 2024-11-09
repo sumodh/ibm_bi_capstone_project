@@ -18,6 +18,7 @@ h6 {
   max-width: 1200px;
   margin: 0 auto;
   padding: 32px;
+  display:grid;
 }
 
 p {
@@ -53,4 +54,5 @@ h2 {
 
 .img {
 padding-top: 100px;
+
 }
