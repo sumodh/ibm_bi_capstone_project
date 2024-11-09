@@ -1,5 +1,5 @@
 ### status: In making
-# ibm_bi_capstone_project
+# IBM_BI_capstone_project
 
 
 
