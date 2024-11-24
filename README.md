@@ -1,3 +1,3 @@
 # ibm_bi_capstone_project
 
-![picture.](./test11.png){width=75%}
+![picture.](./test11.png){width=250px}
